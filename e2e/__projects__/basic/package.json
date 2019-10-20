@@ -16,8 +16,11 @@
     "@babel/preset-env": "^7.2.3",
     "@vue/test-utils": "^1.0.0-beta.28",
     "babel-helper-vue-jsx-merge-props": "^2.0.3",
+    "babel-plugin-istanbul": "^5.2.0",
     "babel-plugin-syntax-jsx": "^6.18.0",
     "babel-plugin-transform-vue-jsx": "^3.7.0",
+    "istanbul-lib-coverage": "^2.0.5",
+    "istanbul-lib-source-maps": "^3.0.6",
     "jest": "^24.0.0",
     "vue-jest": "file:../../../"
   },
